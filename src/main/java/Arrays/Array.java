@@ -7,6 +7,7 @@ public class Array {
         AutoArray();
         AVG();
         multiArray();
+        Matrix();
 
     }
     public static void OneArray(){      //Одномерный массив
@@ -74,6 +75,10 @@ public class Array {
 
 
         }
+
+    }
+
+    public static void Matrix(){
 
     }
 }
